@@ -24,4 +24,4 @@ test:
 
 production:
   <<: *default
-  database: chat
+  url: <%= ENV['DATABASE_URL'] %>
