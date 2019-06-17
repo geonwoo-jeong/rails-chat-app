@@ -1,5 +1,8 @@
-# Rubu ob Rails Chat App
-
-## Practice Ruby on Rails 
+# Chat App
 
 https://rails-chat-app-practice.herokuapp.com
+
+Ruby on Rails, Session, Channel...  
+
+
+
